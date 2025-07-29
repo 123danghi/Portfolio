@@ -20,7 +20,7 @@ Deployment
 Contact
 
 📖 About
-I'm Shobhit Tomar, an Information Technology student at VIT Vellore with a CGPA of 7.3/10. Passionate about building meaningful digital experiences, I've undertaken internships at Hathway Cable and Bharat Intern, gaining hands-on experience in data analysis, SQL, and front-end development. My portfolio reflects my journey, projects, and the skills I've honed over time.
+I'm Abhinav Kumar, an Information Technology student at VIT Vellore with a CGPA of 7.3/10. Passionate about building meaningful digital experiences, I've undertaken internships at Hathway Cable and Bharat Intern, gaining hands-on experience in data analysis, SQL, and front-end development. My portfolio reflects my journey, projects, and the skills I've honed over time.
 
 ✨ Features
 Responsive Design: Optimized for various devices ensuring a seamless user experience.
