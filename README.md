@@ -2,7 +2,7 @@ Abhinav Kumar – Personal Portfolio
 A responsive and interactive personal portfolio showcasing the skills, projects, and experiences of Shobhit Tomar, an aspiring Full Stack Developer.
 
 🌐 Live Demo
-https://abhinavkumar.render.app
+https://123danghi.github.io/Portfolio/index.html
 
 📌 Table of Contents
 About
