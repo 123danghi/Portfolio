@@ -20,7 +20,7 @@ Deployment
 Contact
 
 📖 About
-I'm Abhinav Kumar, an Information Technology student at VIT Vellore with a CGPA of 7.3/10. Passionate about building meaningful digital experiences, I've undertaken internships at Hathway Cable and Bharat Intern, gaining hands-on experience in data analysis, SQL, and front-end development. My portfolio reflects my journey, projects, and the skills I've honed over time.
+I'm an Information Technology graduate from VIT Vellore with hands-on experience in data analysis, SQL, and front-end development. Currently working as an Analyst, I specialize in leveraging data to drive insights and improve operational processes. With prior internships at BDCRTPP and Octanet, along with project experience in ReactJS, MongoDB, NodeJS, and JavaScript, I enjoy building meaningful digital solutions and transforming ideas into user-centric applications. I’m continuously learning, solving problems, and contributing to impactful, data-driven outcomes.
 
 ✨ Features
 Responsive Design: Optimized for various devices ensuring a seamless user experience.
